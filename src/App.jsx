@@ -3,7 +3,7 @@ import productData from "./details.json";
 
 const App = () => {
 	return (
-		<div className="container mx-auto my-8">
+		<div className="my-8">
 			<h2 className="text-2xl text-center font-semibold">T-Shirt Products</h2>
 			
 			
