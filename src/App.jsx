@@ -4,7 +4,7 @@ import productData from "./details.json";
 const App = () => {
 	return (
 		<div className="container mx-auto my-8">
-			<h2 className="text-2xl font-semibold">T-Shirt Products</h2>
+			<h2 className="text-2xl text-center font-semibold">T-Shirt Products</h2>
 			<table className="w-full  shadow-lg rounded-lg">
 				<thead>
 					<tr>
@@ -28,7 +28,7 @@ const App = () => {
 				</tbody>
 			</table>
 
-			<h2 className="text-2xl font-semibold mt-8">Pant Products</h2>
+			<h2 className="text-2xl text-center font-semibold mt-8">Pant Products</h2>
 			<table className="w-full  shadow-lg rounded-lg">
 				<thead>
 					<tr>
