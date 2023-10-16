@@ -375,7 +375,8 @@
             "size": "38",
             "quantity": 0
           }
-          },
+        ]
+      },
       {
         "id": 5,
         "productName": "Cargo Dark Olive",
@@ -400,6 +401,31 @@
             "size": "38",
             "quantity": 0
           }
+        ]
+      },
+      {
+        "id": 6,
+        "productName": "Denim Pant",
+        "sizeAndQuantity": [
+          {
+            "size": "30",
+            "quantity": 3
+          },
+          {
+            "size": "32",
+            "quantity": 3
+          },
+          {
+            "size": "34",
+            "quantity": 3
+          },
+          {
+            "size": "36",
+            "quantity": 1
+          },
+          {
+            "size": "38",
+            "quantity": 0
           }
         ]
       }
