@@ -5,7 +5,9 @@ const App = () => {
 	return (
 		<div className="container mx-auto my-8">
 			<h2 className="text-2xl text-center font-semibold">T-Shirt Products</h2>
-			<table className="w-full  shadow-lg rounded-lg">
+			
+			
+			<table className="w-full mx-auto shadow-lg rounded-lg">
 				<thead>
 					<tr>
 						<th className="border text-left px-4 py-2">Product Name</th>
@@ -27,9 +29,10 @@ const App = () => {
 					))}
 				</tbody>
 			</table>
+			
 
 			<h2 className="text-2xl text-center font-semibold mt-8">Pant Products</h2>
-			<table className="w-full  shadow-lg rounded-lg">
+			<table className="w-full mx-auto shadow-lg rounded-lg">
 				<thead>
 					<tr>
 						<th className="border text-left px-4 py-2">Product Name</th>
