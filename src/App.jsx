@@ -1,65 +1,21 @@
 import React from "react";
-import productData from "./details.json";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Home from "./Home";
+import Asif from "./Asif";
+import Mahin from "./Mahin";
+import Zubaer from "./Zubaer";
 
 const App = () => {
 	return (
-		<div className="my-8">
-			<h2 className="text-2xl text-center font-semibold">T-Shirt Products</h2>
-			
-			
-			<table className="w-full mx-auto shadow-lg rounded-lg">
-				<thead>
-					<tr>
-						<th className="border text-left px-4 py-2">Product Name</th>
-						<th className="border text-left px-4 py-2">Size (M)</th>
-						<th className="border text-left px-4 py-2">Size (L)</th>
-						<th className="border text-left px-4 py-2">Size (XL)</th>
-					</tr>
-				</thead>
-				<tbody>
-					{productData?.productDetails.tshirt.map((product) => (
-						<tr key={product.id}>
-							<td className="border px-4 py-2">{product.productName}</td>
-							{product.sizeAndQuantity.map((sizeQty) => (
-								<td key={sizeQty.size} className="border px-4 py-2">
-									{sizeQty.quantity > 0 ? sizeQty.quantity : "Out of stock"}
-								</td>
-							))}
-						</tr>
-					))}
-				</tbody>
-			</table>
-			
-
-			<h2 className="text-2xl text-center font-semibold mt-8">Pant Products</h2>
-			<table className="w-full mx-auto shadow-lg rounded-lg">
-				<thead>
-					<tr>
-						<th className="border text-left px-4 py-2">Product Name</th>
-						<th className="border text-left px-4 py-2">Size (28)</th>
-						<th className="border text-left px-4 py-2">Size (30)</th>
-						<th className="border text-left px-4 py-2">Size (32)</th>
-						<th className="border text-left px-4 py-2">Size (34)</th>
-						<th className="border text-left px-4 py-2">Size (36)</th>
-						<th className="border text-left px-4 py-2">Size (38)</th>
-					</tr>
-				</thead>
-				<tbody>
-					{productData.productDetails.pant.map((product) => (
-						<tr key={product.id}>
-							<td className="border px-4 py-2">{product.productName}</td>
-							{product.sizeAndQuantity.map((sizeQty) => (
-								<td key={sizeQty.size} className="border px-4 py-2">
-									{sizeQty.quantity > 0 ? sizeQty.quantity : "Out of stock"}
-								</td>
-							))}
-						</tr>
-					))}
-				</tbody>
-			</table>
-		</div>
+		<BrowserRouter>
+			<Routes>
+				<Route path="/" exact element={<Home />} />
+				<Route path="/asif" element={<Asif />} />
+				<Route path="/mahin" element={<Mahin />} />
+				<Route path="/zubaer" element={<Zubaer />} />
+			</Routes>
+		</BrowserRouter>
 	);
 };
 
 export default App;
-
