@@ -1,0 +1,668 @@
+{
+  "productDetails": {
+    "tshirt": [
+      {
+        "id": 1,
+        "productName": "Bongo Black",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 0
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "productName": "Bongo White",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "productName": "Khan Black",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "productName": "Classy Red",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "productName": "Classy Blue",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 0
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "productName": "Classy Yellow",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 0
+          },
+          {
+            "size": "L",
+            "quantity": 1
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "productName": "First Take Ash",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 1
+          },
+          {
+            "size": "XL",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "productName": "First Take Blue",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 1
+          },
+          {
+            "size": "XL",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "productName": "First Take Black",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "productName": "First Take Print",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "productName": "Wintex Red",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "productName": "Wintex T-Paste",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 0
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "productName": "Wintex T-Black",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 0
+          },
+          {
+            "size": "XL",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "productName": "Shirt N.Blue",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 0
+          },
+          {
+            "size": "L",
+            "quantity": 1
+          },
+          {
+            "size": "XL",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "productName": "Shirt Violet",
+        "sizeAndQuantity": [
+          {
+            "size": "M",
+            "quantity": 1
+          },
+          {
+            "size": "L",
+            "quantity": 1
+          },
+          {
+            "size": "XL",
+            "quantity": 1
+          }
+        ]
+      }
+    ],
+    "pant": [
+      {
+        "id": 1,
+        "productName": "Gabardine Black",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 0
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 1
+          },
+          {
+            "size": "36",
+            "quantity": 0
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "productName": "Gabardine Khaki",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 0
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 0
+          },
+          {
+            "size": "36",
+            "quantity": 0
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "productName": "Gabardine Navy",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 0
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 1
+          },
+          {
+            "size": "36",
+            "quantity": 0
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "productName": "Cargo Olive",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 1
+          },
+          {
+            "size": "32",
+            "quantity": 0
+          },
+          {
+            "size": "34",
+            "quantity": 0
+          },
+          {
+            "size": "36",
+            "quantity": 0
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "productName": "Cargo Dark Olive",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 0
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 1
+          },
+          {
+            "size": "36",
+            "quantity": 0
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "productName": "AE Blue Jeans",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 1
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 1
+          },
+          {
+            "size": "36",
+            "quantity": 1
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "productName": "AE Black Jeans",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 0
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 0
+          },
+          {
+            "size": "36",
+            "quantity": 0
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "productName": "DOF Black",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 1
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 1
+          },
+          {
+            "size": "36",
+            "quantity": 0
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "productName": "Jack & Jones Blue",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 0
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 1
+          },
+          {
+            "size": "36",
+            "quantity": 0
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "productName": "Wings Light Blue",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 1
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 1
+          },
+          {
+            "size": "36",
+            "quantity": 0
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "productName": "Cargo Hollister Black",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 0
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 0
+          },
+          {
+            "size": "36",
+            "quantity": 1
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "productName": "Cargo Hollister Olive",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 0
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 0
+          },
+          {
+            "size": "36",
+            "quantity": 1
+          },
+          {
+            "size": "38",
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "productName": "Cargo Hollister Khaki",
+        "sizeAndQuantity": [
+          {
+            "size": "28",
+            "quantity": 0
+          },
+          {
+            "size": "30",
+            "quantity": 0
+          },
+          {
+            "size": "32",
+            "quantity": 1
+          },
+          {
+            "size": "34",
+            "quantity": 0
+          },
+          {
+            "size": "36",
+            "quantity": 1
+          },
+          {
+            "size": "38",
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  }
+}
