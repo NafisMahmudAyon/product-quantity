@@ -1,5 +1,8 @@
 import React from "react";
 import productData from "./details.json";
+import Asif from "./Asif";
+import Mahin from "./Mahin";
+import Zubaer from "./Zubaer";
 import Navbar from "./Navbar";
 
 const A = () => {
