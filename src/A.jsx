@@ -104,7 +104,6 @@ function A() {
 
 		return combinedData;
 	};
-	console.log(data);
 	return (
 		<div>
 			<Navbar title="Product Stock" />
