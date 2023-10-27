@@ -37,7 +37,7 @@ const Individual = () => {
 			</div>
 
 			<h2 className="text-2xl text-center font-semibold my-8">
-				T-Shirt Products
+				T-Shirt Products - 27/10/2023
 				{/* - ({productData?.productDetails.update}) */}
 			</h2>
 
@@ -65,7 +65,7 @@ const Individual = () => {
 			</table>
 
 			<h2 className="text-2xl text-center font-semibold my-8">
-				Pant Products
+				Pant Products - 27/10/2023
 				{/* - ({productData?.productDetails.update}) */}
 			</h2>
 			<table className="w-full mx-auto shadow-lg rounded-lg">
