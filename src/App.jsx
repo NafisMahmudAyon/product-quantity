@@ -4,14 +4,14 @@ import Home from "./Home";
 import Asif from "./Asif";
 import Mahin from "./Mahin";
 import Zubaer from "./Zubaer";
-import A from "./A";
+// import A from "./A";
 
 const App = () => {
 	return (
 		<BrowserRouter>
 			<Routes>
 				<Route path="/" exact element={<Home />} />
-				<Route path="/a" exact element={<A />} />
+{/* 				<Route path="/a" exact element={<A />} /> */}
 				<Route path="/asif" element={<Asif />} />
 				<Route path="/mahin" element={<Mahin />} />
 				<Route path="/zubaer" element={<Zubaer />} />
