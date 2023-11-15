@@ -591,15 +591,15 @@
           },
           {
             "size": "34",
-            "quantity": 1
+            "quantity": 2
           },
           {
             "size": "36",
-            "quantity": 3
+            "quantity": 2
           },
           {
             "size": "38",
-            "quantity": 2
+            "quantity": 1
           }
         ]
       },
@@ -625,11 +625,11 @@
           },
           {
             "size": "36",
-            "quantity": 2
+            "quantity": 1
           },
           {
             "size": "38",
-            "quantity": 2
+            "quantity": 1
           }
         ]
       },
@@ -651,15 +651,15 @@
           },
           {
             "size": "34",
-            "quantity": 2
+            "quantity": 3
           },
           {
             "size": "36",
-            "quantity": 2
+            "quantity": 1
           },
           {
             "size": "38",
-            "quantity": 1
+            "quantity": 0
           }
         ]
       }
